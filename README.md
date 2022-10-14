@@ -1,6 +1,6 @@
 preview
 <h1 align="center">Hi 👋, I'm Hossam Mohamed</h1>
-<h3 align="center">An aspiring Python Developer</h3>
+<h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosso2303&label=Profile%20views&color=0e75b6&style=flat" alt="hosso2303" /> </p>
 
